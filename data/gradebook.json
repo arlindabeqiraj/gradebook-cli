@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Arlinda Beqiraj"
+    },
+    {
+      "id": 2,
+      "name": "Veriona Beqiraj"
+    },
+    {
+      "id": 3,
+      "name": "Bardhe Beqiraj"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AI101",
+      "title": "Intro to Artificial Intelligence"
+    },
+    {
+      "code": "ML201",
+      "title": "Machine Learning"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "AI101",
+      "grades": [
+        92.0,
+        88.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "ML201",
+      "grades": [
+        75.0,
+        81.0
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "AI101",
+      "grades": [
+        70.0,
+        65.0
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "ML201",
+      "grades": [
+        95.0,
+        100.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+2026-04-01 14:23:29,289 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:23:29,290 [INFO] gradebook.service: Added student: [4] Lona Beqiraj
+2026-04-01 14:23:29,291 [INFO] gradebook.storage: Data saved successfully to data/gradebook.json
+2026-04-01 14:26:01,260 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:26:01,260 [INFO] gradebook.service: Added course: [DB202] Databases
+2026-04-01 14:26:01,261 [INFO] gradebook.storage: Data saved successfully to data/gradebook.json
+2026-04-01 14:27:02,868 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:27:02,868 [INFO] gradebook.service: Enrolled student 4 in DB202
+2026-04-01 14:27:02,869 [INFO] gradebook.storage: Data saved successfully to data/gradebook.json
+2026-04-01 14:27:50,381 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:27:50,382 [INFO] gradebook.service: Added grade 95.0 for student 4 in DB202
+2026-04-01 14:27:50,382 [INFO] gradebook.storage: Data saved successfully to data/gradebook.json
+2026-04-01 14:28:08,237 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:28:28,267 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:28:55,483 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
+2026-04-01 14:29:15,382 [INFO] gradebook.storage: Data loaded successfully from data/gradebook.json
