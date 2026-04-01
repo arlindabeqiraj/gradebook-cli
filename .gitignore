@@ -1,4 +1,20 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Logs
 logs/
-data/gradebook.json
+*.log
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
